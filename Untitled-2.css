@@ -1,0 +1,10 @@
+*{
+    margin:0;
+
+}
+.window{
+    background-color: #c0c0c0;
+    width: 400px;
+    border-radius: 3px;
+    
+}
